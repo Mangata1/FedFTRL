@@ -1,0 +1,7 @@
+numpy
+scipy
+tensorflow-gpu==2.6.0
+Pillow
+matplotlib
+jupyter
+tqdm
